@@ -1,0 +1,9 @@
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\bin\Debug\netstandard2.0\DatabaseComponent.deps.json
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\bin\Debug\netstandard2.0\DatabaseComponent.dll
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\bin\Debug\netstandard2.0\DatabaseComponent.pdb
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\obj\Debug\netstandard2.0\DatabaseComponent.csprojResolveAssemblyReference.cache
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\obj\Debug\netstandard2.0\DatabaseComponent.csproj.CoreCompileInputs.cache
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\obj\Debug\netstandard2.0\DatabaseComponent.AssemblyInfoInputs.cache
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\obj\Debug\netstandard2.0\DatabaseComponent.AssemblyInfo.cs
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\obj\Debug\netstandard2.0\DatabaseComponent.dll
+C:\Users\Stefani\Desktop\DatabaseComponent\DatabaseComponent\obj\Debug\netstandard2.0\DatabaseComponent.pdb
